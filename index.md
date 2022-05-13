@@ -23,6 +23,6 @@
 ## [Mainページに進む](https://kissshot-skup.github.io/webpage)
 
 
-### <img src="./images/question.png" width="5%"> お問い合わせ
+### お問い合わせ
 
 [_お問い合わせフォーム（googleフォーム）_](https://docs.google.com/forms/d/e/1FAIpQLSfpbvbT_OmlYiQRZCubeB3hX8pdq3BXhGoAs0Ug0F3iY_x3ew/viewform?usp=sf_link)
