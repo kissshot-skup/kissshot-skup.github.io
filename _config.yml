@@ -1,7 +1,11 @@
 theme: jekyll-theme-cayman
-title: 見習いエンジニアの備忘録
+title: THE YYYY（ザ・イヤーズ）
 plugins:
  - jekyll-sitemap
 google_analytics: G-H1234VX5NE
 gems:
+<<<<<<< Updated upstream
   - jekyll-sitemap
+=======
+  - jekyll-sitemap
+>>>>>>> Stashed changes
